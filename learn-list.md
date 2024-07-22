@@ -3,3 +3,5 @@
 3. Git, GitHub
 4. Vue.js
 5. Flask
+6. 추가
+
